@@ -8,3 +8,4 @@ Ingrédients
 - sel, paprika
 - Oignons
 un ingrédient secret
+- Ajout d'un 2e ingrédient secret
